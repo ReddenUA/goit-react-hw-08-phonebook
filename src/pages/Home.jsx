@@ -21,11 +21,12 @@ export default function Home() {
         Welcome to your personal phonebook. Please
         <br />
         <Link to="/register" component={NavLink}>
-          register
+          Register
         </Link>{' '}
-        Have an account?{' '}
+        <br />
+        Have an account ?{' '}
         <Link to="/login" component={NavLink}>
-          login
+          Login
         </Link>
       </Typography>
     </Container>
