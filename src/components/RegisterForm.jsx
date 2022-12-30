@@ -19,8 +19,8 @@ function Copyright(props) {
       {...props}
     >
       {'Copyright © '}
-      <Link color="inherit" href="https://github.com/ruslanbabkin01">
-        Ruslan
+      <Link color="inherit" href="https://github.com/reddenua">
+        Yaroslav
       </Link>{' '}
       {new Date().getFullYear()}
       {'.'}
