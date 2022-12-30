@@ -23,7 +23,7 @@ export default function Home() {
         <Link to="/register" component={NavLink}>
           register
         </Link>{' '}
-        or{' '}
+        Have an account?{' '}
         <Link to="/login" component={NavLink}>
           login
         </Link>
